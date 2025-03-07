@@ -40,16 +40,16 @@ python main.py
 
 ```
 projekt-tetris/
-│
-├── main.py                 - hlavní soubor pro spuštění
-├── hra.py                  - logika hlavní hry a battle režimu
-├── menu.py                 - menu, pauza, zadánváí jména a obrazovky konce hry
-├── sprava_souboru.py       - skóre, ukládání/načítání souborů a tvarů
-├── editor_tvaru.py         - editor vlastních tvarů
-├── grafika.py              - funkce pro vykreslování herní grafiky
-├── tvary.py                - definice tvarů
-├── konstanty.py            - nastavení hry, konstant, barev, rozměrů
-├── computer.py             - algoritmy pro hru v režimu proti "počítači"
+
+ main.py                 - hlavní soubor pro spuštění
+ hra.py                  - logika hlavní hry a battle režimu
+ menu.py                 - menu, pauza, zadánváí jména a obrazovky konce hry
+ sprava_souboru.py       - skóre, ukládání/načítání souborů a tvarů
+ editor_tvaru.py         - editor vlastních tvarů
+ grafika.py              - funkce pro vykreslování herní grafiky
+ tvary.py                - definice tvarů
+ konstanty.py            - nastavení hry, konstant, barev, rozměrů
+ computer.py             - algoritmy pro hru v režimu proti "počítači"
 
 ```
 
